@@ -1,0 +1,30 @@
+Duck Donald
+45.0	3.50	60
+Mouse Mickey
+35	3.50	55	
+Brown Charlie
+35	3.50	20
+Oyle Olive
+40	3.50	60
+Man He
+45	3.50	20
+Ra She
+40	3.50	20
+Jetson George
+45	3.50	55
+Starr Brenda
+35	3.50	60
+Woman Wonder
+40	3.50	55
+Man Bat
+25	100	90
+Lightning Black	
+35	3.50	25
+Panther Black
+40	3.50	20
+America Captain
+20	3.50	65
+Gordon Flash
+25	3.50	70
+Grey Jean
+30	3.50	15

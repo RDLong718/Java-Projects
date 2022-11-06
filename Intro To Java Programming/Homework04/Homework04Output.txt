@@ -1,0 +1,11 @@
+Monday   Tuesday   Wednesday   Thursday   Friday   Highest   Lowest   Average   Consecutive
+
+    23        35          35         40       21      40.0     21.0      30.8           YES
+    29        35          34         43       33      43.0     29.0      34.8            NO
+    42        42          45         35       35      45.0     35.0      39.8           YES
+    34        28          46         49       51      51.0     28.0      41.6            NO
+    37        38          46         49       51      51.0     37.0      44.2            NO
+
+
+The total number of weeks processed is 5.
+The highest average of all is 51. It occurred in week 4 and fell on a Friday.

@@ -1,0 +1,90 @@
+
+
+You entered:	 0 half dollars 
+              	 3 quarters 
+              	 2 dimes 
+              	 17 nickels 
+              	 1 pennies 
+
+The value of your 23 coins is $1.81 which is equivalent to 181 pennies.
+
+
+You entered:	 2 half dollars 
+              	 1 quarters 
+              	 5 dimes 
+              	 0 nickels 
+              	 0 pennies 
+
+The value of your 8 coins is $1.75 which is equivalent to 175 pennies.
+
+
+You entered:	 0 half dollars 
+              	 0 quarters 
+              	 0 dimes 
+              	 5 nickels 
+              	 50 pennies 
+
+The value of your 55 coins is $0.75 which is equivalent to 75 pennies.
+
+
+You entered:	 1 half dollars 
+              	 1 quarters 
+              	 1 dimes 
+              	 1 nickels 
+              	 1 pennies 
+
+The value of your 5 coins is $0.91 which is equivalent to 91 pennies.
+
+
+You entered:	 2 half dollars 
+              	 4 quarters 
+              	 5 dimes 
+              	 6 nickels 
+              	 1 pennies 
+
+The value of your 18 coins is $2.81 which is equivalent to 281 pennies.
+
+
+You entered:	 10 half dollars 
+              	 20 quarters 
+              	 35 dimes 
+              	 68 nickels 
+              	 9 pennies 
+
+The value of your 142 coins is $16.99 which is equivalent to 1699 pennies.
+
+
+You entered:	 23 half dollars 
+              	 42 quarters 
+              	 12 dimes 
+              	 0 nickels 
+              	 2 pennies 
+
+The value of your 79 coins is $23.22 which is equivalent to 2322 pennies.
+
+
+You entered:	 0 half dollars 
+              	 0 quarters 
+              	 0 dimes 
+              	 0 nickels 
+              	 5 pennies 
+
+The value of your 5 coins is $0.05 which is equivalent to 5 pennies.
+
+
+You entered:	 2 half dollars 
+              	 1 quarters 
+              	 3 dimes 
+              	 4 nickels 
+              	 5 pennies 
+
+The value of your 15 coins is $1.80 which is equivalent to 180 pennies.
+
+
+You entered:	 0 half dollars 
+              	 0 quarters 
+              	 0 dimes 
+              	 0 nickels 
+              	 0 pennies 
+
+The value of your 0 coins is $0.00 which is equivalent to 0 pennies.

@@ -1,0 +1,5 @@
+Mary: A (100)
+John: A (95)
+Sally: B (85)
+Mark: C (75)
+Jane: A (96)

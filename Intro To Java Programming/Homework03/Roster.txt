@@ -1,0 +1,24 @@
+Student Name        Test1    Test2    Final   Average   Grade
+
+Meredith               85       90       85        87       B
+Bailey                 70       90       70        76       C
+Izzie                  45       50       65        57       F
+George                 75       80       72        75       C
+Cristina               72       78       78        77       C
+Gibbs                  92       98       95        95       A
+Denozzo                70       70       70        70       C
+Ziva                   90       88       95        92       A
+McGee                  88       88       88        88       B
+Abby                   50       65       65        62       D
+
+The number of A grades is:      2
+The number of B grades is:      2
+The number of C grades is:      4
+The number of D grades is:      1
+The number of D grades is:      1
+
+Class Average:     77.8
+Lowest Average:    56.5
+Highest Average:   95.3
+
+ALL DONE!

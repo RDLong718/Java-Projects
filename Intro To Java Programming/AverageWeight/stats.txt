@@ -1,0 +1,5 @@
+The total weight is 276lbs.
+The average weight is: 138lbs.
+The total number of females is 0
+The Program is finished
+

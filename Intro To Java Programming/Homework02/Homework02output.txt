@@ -1,0 +1,96 @@
+				Miser Corporation Payroll
+
+The employee's name is: Donald Duck whose age is 60 years old.
+The employee worked 45.0 hours and earns $3.50/hour.
+The base pay is $166.25 and the tax is $83.13.
+The net pay is $83.13.
+
+
+The employee's name is: Mickey Mouse whose age is 55 years old.
+The employee worked 35.0 hours and earns $3.50/hour.
+The base pay is $122.50 and the tax is $61.25.
+The net pay is $61.25.
+
+
+The employee's name is: Charlie Brown whose age is 20 years old.
+The employee worked 35.0 hours and earns $3.50/hour.
+The base pay is $122.50 and the tax is $12.25.
+The net pay is $110.25.
+
+
+The employee's name is: Olive Oyle whose age is 60 years old.
+The employee worked 40.0 hours and earns $3.50/hour.
+The base pay is $140.00 and the tax is $70.00.
+The net pay is $70.00.
+
+
+The employee's name is: He Man whose age is 20 years old.
+The employee worked 45.0 hours and earns $3.50/hour.
+The base pay is $166.25 and the tax is $16.63.
+The net pay is $149.63.
+
+
+The employee's name is: She Ra whose age is 20 years old.
+The employee worked 40.0 hours and earns $3.50/hour.
+The base pay is $140.00 and the tax is $14.00.
+The net pay is $126.00.
+
+
+The employee's name is: George Jetson whose age is 55 years old.
+The employee worked 45.0 hours and earns $3.50/hour.
+The base pay is $166.25 and the tax is $83.13.
+The net pay is $83.13.
+
+
+The employee's name is: Brenda Starr whose age is 60 years old.
+The employee worked 35.0 hours and earns $3.50/hour.
+The base pay is $122.50 and the tax is $61.25.
+The net pay is $61.25.
+
+
+The employee's name is: Wonder Woman whose age is 55 years old.
+The employee worked 40.0 hours and earns $3.50/hour.
+The base pay is $140.00 and the tax is $70.00.
+The net pay is $70.00.
+
+
+The employee's name is: Bat Man whose age is 90 years old.
+The employee worked 25.0 hours and earns $100.00/hour.
+The base pay is $2500.00 and the tax is $1250.00.
+The net pay is $1250.00.
+
+
+The employee's name is: Black Lightning whose age is 25 years old.
+The employee worked 35.0 hours and earns $3.50/hour.
+The base pay is $122.50 and the tax is $12.25.
+The net pay is $110.25.
+
+
+The employee's name is: Black Panther whose age is 20 years old.
+The employee worked 40.0 hours and earns $3.50/hour.
+The base pay is $140.00 and the tax is $14.00.
+The net pay is $126.00.
+
+
+The employee's name is: Captain America whose age is 65 years old.
+The employee worked 20.0 hours and earns $3.50/hour.
+The base pay is $70.00 and the tax is $35.00.
+The net pay is $35.00.
+
+
+The employee's name is: Flash Gordon whose age is 70 years old.
+The employee worked 25.0 hours and earns $3.50/hour.
+The base pay is $87.50 and the tax is $43.75.
+The net pay is $43.75.
+
+
+The employee's name is: Jean Grey whose age is 15 years old.
+The employee worked 30.0 hours and earns $3.50/hour.
+The base pay is $105.00 and the tax is $10.50.
+The net pay is $94.50.
+
+
+The oldest employee was Bat Man whose age is 90 years old.
+The youngest employee was Jean Grey whose age is 15 years old.
+
+The payroll program is complete.

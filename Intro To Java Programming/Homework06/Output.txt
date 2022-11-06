@@ -1,0 +1,7 @@
+	This is how the output looks before adding the additional words to the text files.
+
+One dog jumped under one chair. Any toy drove from some toy. The car played over a car. Any car skipped over any car. 
+Some car skipped on some girl. Some car ran over some boy. Some dog jumped on a dog. The town played over the toy. 
+Any boy drove from a boy. One chair played from any dog. A car skipped over a girl. One dog ran from any town. 
+Some car ran under some boy. One town walked over a girl. One girl played from any chair. A dog walked on a girl. 
+Some boy ran on the toy. Any car played from one toy. Some chair skipped on any girl. Some town skipped over the chair. 
